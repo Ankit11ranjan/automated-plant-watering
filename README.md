@@ -1,5 +1,5 @@
 # automated-plant-watering
-during summer season it becomes very importatnt to provid water to plant.so to make this sysytem automatic a plant watering sysytem has been 
+during summer season it becomes very importatnt to provide water to plant.so to make this process automatic a plant watering system has been 
 proposed.
 The circuit comprises
 an Arduino UNO board,
